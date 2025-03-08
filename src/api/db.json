@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "name": "Concert de Jazz",
+      "description": "Un concert de jazz avec des musiciens de renommée internationale",
+      "price": 50,
+      "nbTickets": 100,
+      "nbParticipants": 0,
+      "img": "/jazz.jpg",
+      "id": "jlj1"
+
+    },
+    {
+      "name": "Festival de Cinéma",
+      "description": "Un festival présentant les meilleurs films indépendants de l'année",
+      "price": 30,
+      "nbTickets": 200,
+      "nbParticipants": 0,
+      "img": "/Festival de Cinéma.jpg",
+      "id": "jjk1"
+
+    },
+    {
+      
+      "name": "Exposition d'Art",
+      "description": "Une exposition présentant les œuvres d'artistes contemporains",
+      "price": 15,
+      "nbTickets": 150,
+      "nbParticipants": 0,
+      "img": "/Exposition d'Art.jpg",
+      "id": "jjj1"
+    },
+    {
+      "name": "laila",
+      "description": "qqqqqqqqqqqqqqqq",
+      "price": 3,
+      "nbTickets": 3,
+      "img": "blob:http://localhost:3002/45b30650-0356-4b19-8e0b-6181d57b6cdf",
+      "nbParticipants": 0,
+      "id": "0fee"
+    }
+  ]
+}
